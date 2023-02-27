@@ -1,16 +1,15 @@
 # Joel Apablaza
 
-**`Digital Blacksmith ("make it strong, make it robust")`**
+**`Digital Blacksmith ("make it strong and robust")`**
 
-I'm a "self taught && practice in group" developer who really likes and enjoys strongly typed languages. C# & Typescript are my prefered lenguajes to develop and for CSS Styles I realy enjoy working with Frameworks like Bootstrap or Tailwind and if I need to write my on CSS I prefere to use SASS for a clean code.
+I'm a "self taught && practice creating" developer who really likes and enjoys strongly typed languages. C# & Typescript are my chosen lenguajes to develop and for CSS Styles I really enjoy working with Frameworks like Bootstrap or Tailwind and for writing my own CSS I prefer to use SASS for a clean code.
 
-<br />
-<a href="https://www.linkedin.com/in/joel-apablaza-350bb1223/" target="_blank"><img align="center" style="display: block; margin: 0 auto" alt="linkedin" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+<a href="https://www.linkedin.com/in/joel-apablaza-350bb1223/" target="_blank"><img align="center" style="display: block; margin: 0 auto" alt="linkedin" style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br />
 
 ---
 
-### 🧰 Languages and Tools
+### 🛠️ Languages and Tools
 
 <br />
 <div style="display: flex; flex-direction: row; justify-content: center" >
