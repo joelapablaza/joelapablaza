@@ -4,7 +4,7 @@
 
 I'm a "self taught && practice creating" developer who really likes and enjoys strongly typed languages. C# & Typescript are my chosen lenguajes to develop and for CSS Styles I really enjoy working with Frameworks like Bootstrap or Tailwind and for writing my own CSS I prefer to use SASS for a clean code.
 
-<a href="https://www.linkedin.com/in/joel-apablaza-350bb1223/" target="_blank"><img align="center" style="display: block; margin: 0 auto" alt="linkedin" style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a align="center" href="https://www.linkedin.com/in/joel-apablaza-350bb1223/" target="_blank"><img align="center" style="display: block; margin: 0 auto" alt="linkedin" style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br />
 
 ---
@@ -12,7 +12,7 @@ I'm a "self taught && practice creating" developer who really likes and enjoys s
 ### 🛠️ Languages and Tools
 
 <br />
-<div style="display: flex; flex-direction: row; justify-content: center" >
+<div align="center" >
 <img align="left" alt="c-sharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
