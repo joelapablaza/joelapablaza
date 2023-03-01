@@ -5,11 +5,8 @@
 I'm a "self taught && practice creating" developer who really likes and enjoys strongly typed languages. C# & Typescript are my chosen lenguajes to develop and for CSS Styles I really enjoy working with Frameworks like Bootstrap or Tailwind and for writing my own CSS I prefer to use SASS for a clean code.
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/joel-apablaza-350bb1223/" target="_blank"><img alt="linkedin" style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
 </div>
-<br />
 
 ---
 
@@ -33,3 +30,4 @@ I'm a "self taught && practice creating" developer who really likes and enjoys s
 <img  alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img  alt="sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
+<br />
