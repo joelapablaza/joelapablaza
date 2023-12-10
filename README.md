@@ -2,7 +2,7 @@
 
 **`Digital Blacksmith ("make it strong and robust")`**
 
-I'm a "self taught && practice creating" developer who really likes and enjoys strongly typed languages. C# & Typescript are my chosen lenguajes to develop and for CSS Styles I really enjoy working with Frameworks like Bootstrap or Tailwind and for writing my own CSS I prefer to use SASS for a clean code.
+Hello!, I'm Joel, a full-stack developer with +2 years of experience. My preference for problem solving and creating automations makes me enjoy any technology that fits the problem or project.
 
 <div align="center">
 <a href="https://www.linkedin.com/in/joel-apablaza-350bb1223/" target="_blank"><img alt="linkedin" style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
