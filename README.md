@@ -35,7 +35,7 @@ Hello! I'm Joel, a full-stack developer with +2 years of experience. My preferen
 <img  alt="babel" width="42px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
 <img  alt="redux" width="42px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img  alt="JavaScript" width="42px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img  alt="tailwindcss" width="42px" style="padding-right:20px;"src="https://github.com/devicons/devicon/tree/v2.16.0/icons/tailwindcss/tailwindcss-plain.svg" />  
+<img  alt="tailwindcss" width="42px" style="padding-right:20px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />  
 <img  alt="sass" width="42px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
 <br />
