@@ -2,7 +2,7 @@
 
 **`Digital Blacksmith ("make it strong and robust")`**
 
-Hello! I'm Joel, a full-stack developer with +3 years of experience. My preference for problem-solving and automation creation makes me enjoy any technology that fits the problem or project
+Hello! I'm Joel, a full-stack developer with +4 years of experience. My preference for problem-solving and automation creation makes me enjoy any technology that fits the problem or project
 
 <div align="center">
 <a href="https://www.linkedin.com/in/joel-apablaza-350bb1223/" target="_blank"><img alt="linkedin" style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
