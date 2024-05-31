@@ -2,7 +2,8 @@
 
 **`Digital Blacksmith ("make it strong and robust")`**
 
-Hello! I'm Joel, a full-stack developer with +4 years of experience. My preference for problem-solving and automation creation makes me enjoy any technology that fits the problem or project
+Hello! I'm Joel, a full-stack developer with +7 years of experience in the IT sector and +4 years of experience in full-stack projects, focusing on front-end development. Dynamic, curious, and problem-solving mindset. Experience developing with SCRUM methodology. I also enjoy developing using appropriate design patterns that can enhance the readability, maintenance, and scalability of applications.
+
 
 <div align="center">
 <a href="https://www.linkedin.com/in/joel-apablaza-350bb1223/" target="_blank"><img alt="linkedin" style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
