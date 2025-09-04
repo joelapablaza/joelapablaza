@@ -2,7 +2,7 @@
 
 **`Digital Blacksmith ("make it strong and robust")`**
 
-Hello! I'm Joel, a full-stack developer with +7 years of experience in the IT sector and +4 years of experience in full-stack projects, focusing on front-end development. Dynamic, curious, and problem-solving mindset. Experience developing with SCRUM methodology. I also enjoy developing using appropriate design patterns that can enhance the readability, maintenance, and scalability of applications.
+Hello! I'm Joel, a full-stack developer with +8 years of experience in the IT sector and +5 years of experience in full-stack projects, focusing on front-end development. Dynamic, curious, and problem-solving mindset. Experience developing with SCRUM methodology. I also enjoy developing using appropriate design patterns that can enhance the readability, maintenance, and scalability of applications.
 
 
 <div align="center">
